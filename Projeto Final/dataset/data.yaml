@@ -1,0 +1,8 @@
+path: C:/Users/rafae/DocumentsPC/dataset
+train: train/images
+val: valid/images
+
+names:
+  0: Phillips
+  1: Allen
+  2: Sextavado
